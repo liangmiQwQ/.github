@@ -18,7 +18,7 @@ If you're new to Git and GitHub, we recommend familiarizing yourself with basic 
 - Keep your branch updated with the main branch: `git fetch origin && git rebase origin/main`
 - Use descriptive branch names that reflect the purpose of your changes
 
-We follow conventional commit standards. Each commit message should be structured as:
+We follow [conventional commit standards](https://www.conventionalcommits.org/en/v1.0.0/). Each commit message should be structured as:
 ```
 <type>(<scope(optional)>): <description>
 ```
@@ -91,7 +91,7 @@ Your PR title should follow [conventional commit format](https://www.conventiona
 - `docs: update API documentation`
 
 If your PR hasn't been reviewed within two weeks, please:
-- Mention relevant maintainers using `@liangmimi`
+- Mention relevant maintainers using `@liangmiQwQ`
 - Or contact us at `github@liangmi.dev`
 
 ## Possible Follow-up Actions
